@@ -11,6 +11,6 @@ countBtn.addEventListener('click', function(){
         vowelCount += 1
       }
     })
-    alert(vowelCount)
+    alert(`There are ${vowelCount} vowels!`)
   }
 })
